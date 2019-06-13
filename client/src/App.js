@@ -8,9 +8,10 @@ import Works from './components/Works/Works';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
-      </header>
+      <nav className="App-header">
+        <Navigation/>
+    
+      </nav>
     </div>
   );
 }

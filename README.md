@@ -6,7 +6,9 @@ I'm building a website to host my projects and other works that i've done.
 
 
 # Technologies Used:
-    -React
+    -React.js
+    -React-router-dom
+    -React-burger-menu
     -Bulma
 
 

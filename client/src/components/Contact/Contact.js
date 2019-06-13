@@ -9,7 +9,7 @@ export default class Contact extends Component {
                 </h1>
                 <p>
                     If you want to get in touch and talk about a project collaboration or to 
-                    just say hello, you can send an email to samibachir20@gmail.com
+                    just say hello, you can send me an email at <a href="mailto:samibachir20@gmail.com">samibachir20@gmail.com</a>
                 </p>
                 <footer>
                     <h1>

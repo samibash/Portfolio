@@ -9,9 +9,21 @@ export default class Navigation extends Component {
     render() {
         return (
             <div>
-                <Link className="navbar-item" to={'/'}><p>Home</p></Link>
-                <Link className="navbar-item" to={'/works'}><p>Works</p></Link>
-                <Link className="navbar-item" to={'/contact'}><p>Contact</p></Link>
+                <aside class="menu">
+                    <p class="menu-label">
+                        Sami Bachir
+                    </p>
+                    <ul class="menu-list">
+                        <Link className="navbar-item" to={'/'}><p>Home</p></Link>
+                        <Link className="navbar-item" to={'/works'}><p>Works</p></Link>
+                        <Link className="navbar-item" to={'/contact'}><p>Contact</p></Link>
+                    </ul>
+                </aside>
+
+
+
+
+
 
                 <Switch>
                     <Route path='/' exact component={ Home }/>

@@ -19,3 +19,4 @@ I'm building a website to host my projects and other works that i've done.
 # Helpful Links Used:
 https://bulma.io/
 https://www.smallvictori.es/
+https://appdividend.com/2018/08/29/how-to-create-sidebar-component-in-react/

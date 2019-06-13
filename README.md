@@ -11,9 +11,11 @@ I'm building a website to host my projects and other works that i've done.
 
 
 # Wireframes
-
+![IMG_5241](https://user-images.githubusercontent.com/45145737/59451923-9ee97e00-8dda-11e9-8c86-855fffd587ee.jpg)
+![IMG_5242](https://user-images.githubusercontent.com/45145737/59451930-a14bd800-8dda-11e9-94f2-b223eae1cec4.jpg)
 
 
 
 # Helpful Links Used:
 https://bulma.io/
+https://www.smallvictori.es/

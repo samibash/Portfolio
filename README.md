@@ -24,3 +24,4 @@ I'm building a website to host my projects and other works that i've done.
     https://www.smallvictori.es/
     https://appdividend.com/2018/08/29/how-to-create-sidebar-component-in-react/
     https://github.com/IanLunn/Hover
+    https://www.w3schools.com/css/css3_shadows.asp

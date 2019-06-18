@@ -15,15 +15,21 @@ export default class Contact extends Component {
                     <h1>
                         ~Socialize~
                     </h1>
-                    <p>
-                        connect with me here:
-                    </p>
-                    <ul>
-                        <li>Facebook</li>
-                        <li>LinkedIn</li>
-                        <li>Github</li>
-                        <li>Instagram</li>
-                    </ul>
+
+                    <div class="columns">
+                        <div class="column">
+                            <a class="button is-link">Facebook</a>  
+                        </div>
+                        <div class="column">
+                            <a class="button is-info">LinkedIn</a>
+                        </div>
+                        <div class="column">
+                            <a class="button is-dark">Github</a>
+                        </div>
+                        <div class="column">
+                            <a class="button is-danger">Instagram</a>
+                        </div>
+                    </div>
                 </footer>
             </div>
         )

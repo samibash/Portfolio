@@ -16,6 +16,7 @@ export default class Works extends Component {
                                 <p class="subtitle">
                                     here's a list of projects that i've done so far
                                 </p>
+                                <br/>
                             </div>
                             <br/>
                             <div class="tile is-ancestor">

@@ -19,7 +19,7 @@ export default class Works extends Component {
                             </div>
                             <br/>
                             <div class="tile is-ancestor">
-                                <div className="box1">
+                                <div id="box1" className="hvr-grow">
                                 <div class="tile is-parent">
                                 <article class="tile is-child box">
                                     <p class="title">Interstellar Invasion</p>
@@ -28,7 +28,7 @@ export default class Works extends Component {
                                 </article>
                                 </div>
                                 </div>
-                                <div className="box2">
+                                <div id="box2" className="hvr-grow">
                                 <div class="tile is-parent">
                                 <article class="tile is-child box">
                                     <p class="title">Who's Playing?</p>
@@ -37,7 +37,7 @@ export default class Works extends Component {
                                 </article>
                                 </div>
                                 </div>
-                                <div className="box3">
+                                <div id="box3" className="hvr-grow">
                                 <div class="tile is-parent">
                                 <article class="tile is-child box">
                                     <p class="title">Leisurely Slacking</p>

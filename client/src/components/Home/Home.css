@@ -27,3 +27,12 @@
     word-spacing: 3px;
     letter-spacing: -.5px;
 }
+
+@media (max-width: 1200px) {
+   .container-home {
+        padding-top: 70px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 10px;
+    }
+  }

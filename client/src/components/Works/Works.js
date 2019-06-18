@@ -8,8 +8,8 @@ export default class Works extends Component {
                 <section class="hero is-fullheight">
                     <div class="hero-body">
                         <div class="container">
-                            <div class="notification">
-                                <h1 class="title-of-page">
+                            <div>
+                                <h1 className="title-of-page hvr-buzz-out">
                                     Projects                           
                                 </h1>
                                 <br/>

@@ -6,7 +6,7 @@ export default class Home extends Component {
         return (
             <div className="main-container">
                 <div class="container-home">
-                    <h1 class="hero is-light" className="home-title">
+                    <h1 id="home-title">
                         <em>Hi, my name's Sami</em>                        
                     </h1>
                     <div className="card">

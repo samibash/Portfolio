@@ -10,6 +10,7 @@ I'm building a website to host my projects and other works that i've done.
     -React-router-dom
     -React-burger-menu
     -Bulma
+    -Hover.css
 
 
 # Wireframes
@@ -22,3 +23,4 @@ I'm building a website to host my projects and other works that i've done.
     https://bulma.io/
     https://www.smallvictori.es/
     https://appdividend.com/2018/08/29/how-to-create-sidebar-component-in-react/
+    https://github.com/IanLunn/Hover

@@ -12,10 +12,11 @@ export default class Navigation extends Component {
             <div>
                 <Menu>
                     <Link className="menu-item" to={'/'}><p>Home</p></Link>
+                    <br/>
                     <Link className="menu-item" to={'/works'}><p>Works</p></Link>
+                    <br/>
                     <Link className="menu-item" to={'/contact'}><p>Contact</p></Link>
                 </Menu>
-
 
                 <Switch>
                     <Route path='/' exact component={ Home }/>

@@ -14,8 +14,6 @@ export default class Contact extends Component {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
                         <div className="container is-fluid">
                             <div>
                                 <h2 className="subtitle" id="contact-subtitle">

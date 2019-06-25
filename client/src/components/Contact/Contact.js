@@ -12,8 +12,6 @@ export default class Contact extends Component {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
                         <div className="container is-fluid">
                             <div>
                                 <h2 className="subtitle" id="contact-subtitle">
@@ -24,11 +22,41 @@ export default class Contact extends Component {
                             </div>
                         </div>
                     </div>
-                </section>   
+                </section>  
+
+                {/* <div className="container is-fluid">
+                    <div className="field">
+                        <label className="label">Name</label>
+                        <div className="control">
+                        <input className="input" type="text" placeholder="Text input" />
+                        </div>
+                    </div>
+                    <div className="field">
+                        <label className="label">Email</label>
+                        <div className="control has-icons-left">
+                        <input className="input" type="email" placeholder="Email input" />
+                        <span className="icon is-small is-left">
+                            <i className="fas fa-envelope" />
+                        </span>
+                        </div>
+                    </div>
+                    <div className="field">
+                        <label className="label">Message</label>
+                        <div className="control">
+                        <textarea className="textarea" placeholder="Textarea" defaultValue={""} />
+                        </div>
+                    </div>
+                    
+                    <div className="field is-grouped">
+                        <div className="control">
+                        <button className="button is-warning">Submit</button>
+                        </div>
+                    </div>
+                </div> */}
+
                 <br/>
                 <br/>
-                <br/>
- 
+
                 <footer>
                     <div className="content has-text-centered">
                         <div className="columns">

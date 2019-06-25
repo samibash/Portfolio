@@ -6,6 +6,7 @@ export default class Contact extends Component {
         return (
             <div>
                 <section className="section is-medium">
+                    <br/>
                     <div className="container">
                         <h1 className="title hvr-buzz-out" id="contact-title">Get in touch</h1>
                         <br/>
